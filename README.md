@@ -17,7 +17,7 @@ Busco evoluir constantemente e construir uma base sólida como desenvolvedor.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielMCiriaco-Dev&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielMCiriaco-Dev&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 <img width="45.4%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielMCiriaco-Dev&theme=tokyonight" />
 
 </div align=center>
