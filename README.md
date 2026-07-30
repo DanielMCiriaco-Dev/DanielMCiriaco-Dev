@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Sou estudante de Engenharia de Software (3º semestre), com foco em desenvolvimento backend.
+Sou estudante de Engenharia de Software (4º semestre), com foco em desenvolvimento backend.
 Tenho experiência acadêmica com C e atualmente estou aprofundando meus conhecimentos em Java, desenvolvendo projetos para evoluir na prática.
 
 Embora ainda esteja no início da minha jornada na área, sou altamente dedicado, disciplinado e comprometido com aprendizado contínuo e boas práticas de programação.
